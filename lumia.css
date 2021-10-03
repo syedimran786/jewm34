@@ -1,0 +1,62 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,body
+{
+    width: 100%;
+    overflow-x: hidden;
+    background-color: #efefef;
+}
+
+/* Navbar Starts */
+    nav
+    {
+        background-color: white;
+        padding: 17px 5px;
+    }
+
+    nav ul li
+    {
+        display: inline;
+    }
+
+    nav ul
+    {
+        display: inline;
+        margin-left: 328px;
+    }
+    nav ul li a
+    {
+        text-decoration: none;
+        color: gray;
+        font-size: 16px;
+        margin-left: 40px;
+        font-weight: bold;
+    }
+    nav ul li a:hover
+    {
+        color:rgb(138, 186, 224)
+    }
+    .brand-logo
+    {
+        text-decoration: none;
+        color: black;
+        font-size: 23px;
+        margin-left: 80px;
+    }
+    .navbar-icons
+    {
+        display: inline;
+        margin-left: 25px;
+    }
+    .fab
+    {
+        color: gray;
+        font-size: 23px;
+    }
+/* Navbar Ends */

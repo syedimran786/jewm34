@@ -1,0 +1,80 @@
+/* Element Selector */
+/* p
+{
+    color:red
+} */
+
+/* Group Selector */
+/* a,p,div
+{
+    color: red;
+} */
+
+/* Classs Selector */
+/* p.dinga
+{
+    color: red;
+    font-size: 50px;
+    border:2px solid red;
+    border-radius: 30px;
+} */
+
+/* Generic Class Selector */
+/* .dinga
+{
+    color: red;
+    font-size: 50px;
+    border:6px solid green;
+    border-radius: 30px;
+
+} */
+
+/* Id Selector */
+/* #jsp
+{
+    background-color: crimson;
+    font-size: 30px;
+    color:white
+} */
+
+/* Attribute Selector */
+/* input[name]
+{
+    border: 2px solid green;
+} */
+
+/* Attribute Selector */
+/* input[type]
+{
+    border: 2px solid green;
+} */
+
+/* Attribute and Selector */
+/* input[type="password"]
+{
+    border: 2px solid green;
+} */
+
+
+/* Child Selector */
+/* 
+.mydiv p
+{
+    color:red
+} */
+
+
+/* Universal Selector */
+/* *
+{
+    color: red;
+} */
+
+.box
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 30px;
+    box-sizing: border-box;
+}

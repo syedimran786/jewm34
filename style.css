@@ -1,0 +1,24 @@
+nav
+{
+    background-color: orange;
+    padding: 21px 10px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 128px;
+}
+body
+{
+    margin: 0px;
+}
+div
+{
+    height: 500px;
+    background-color: red;
+    background-image: url("https://cdn.pixabay.com/photo/2018/10/02/22/01/tops-3720049__340.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

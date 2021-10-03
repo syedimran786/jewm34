@@ -1,0 +1,32 @@
+/* a
+{
+    background-color: red;
+    display: block;
+}
+
+div
+{
+    background-color: red;
+    display: inline;
+}
+
+span
+{
+    background-color: green;
+    display: block;
+}
+
+h1
+{
+    background-color: green;
+    display: inline;
+} */
+
+div
+{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    display: none;
+}
